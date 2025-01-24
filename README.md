@@ -13,6 +13,6 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma reflexão sobre a inclusão escolar da criança com deficiência.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://studio.d-id.com/share?id=e101cc167d2cdae3d332b391365fc475&utm_source=copy)
 
 
